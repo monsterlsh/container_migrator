@@ -1,0 +1,8 @@
+.idea
+.vscode
+client_repo
+server_repo
+test/*
+*.csv
+*.png
+*.xlsx
